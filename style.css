@@ -89,7 +89,9 @@ a:hover {
 }
 
 .header-image {
+  object-fit: cover;
   width: 18rem;
+  height: 180px;
   border-radius: 50%;
 }
 
