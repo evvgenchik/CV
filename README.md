@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://oibioib.github.io/rsschool-cv/
+https://evvgenchik.github.io/rsschool-cv/
